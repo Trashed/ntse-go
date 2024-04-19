@@ -1,2 +1,2 @@
 # ntse-go
-An application for evolving trading strategies
+An application for evolving trading strategies with NEAT algorithm.
